@@ -1,4 +1,4 @@
-const date = new Date("02/01/2022"); // New Date object
+const date = new Date("08/25/2022"); // New Date object
 date.setDate(date.getDate() + 0) // Current day plus 30 days
 const second = 1000;
 const minute = second * 60;
